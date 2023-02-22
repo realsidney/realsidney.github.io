@@ -3,6 +3,7 @@ layout: post
 title: 整理下最近看的书
 date: 2023-02-22 11:55 +0800
 categories: 读书
+tags: 读书
 ---
 - 叫魂：1768年中国妖术大恐慌<br>
 书名误导，其实在讲政治<br>
