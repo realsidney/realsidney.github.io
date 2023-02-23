@@ -33,7 +33,7 @@ github:
   username: realsidney             # change to your github username
 
 twitter:
-  username: realsidney            # change to your twitter username
+  username: twitter            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -93,8 +93,8 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: realsidney/realsidney.github.io        # <gh-username>/<repo>
-    issue_term: url   # < url | pathname | title | ...>
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo:              # <gh-username>/<repo>
@@ -115,7 +115,7 @@ assets:
     env:          # [development|production]
 
 pwa:
-  enabled: true   # the option for PWA feature
+  enabled: false   # the option for PWA feature
 
 paginate: 10
 
